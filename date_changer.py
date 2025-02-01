@@ -1,11 +1,11 @@
 username = input ("имя пользователя: ")
 title = input ("заголовок заметки: ")
 content = input ("описание заметки: ")
-status = input("статус заметки: ")
-created_date = input("дата создания заметки Д-М: ")
-issue_date = input("дата истечения заметки Д-М: ")
-age_first = 2025
-age_end = 2026
+status = input ("статус заметки: ")
+created_date = input ("дата создания заметки Д-М: ")
+issue_date = input ("дата истечения заметки Д-М: ")
+age_first = 2025 ("год создания заметки")
+age_end = 2026 ("год окончания заметки")
 print(username,)
 print(title)
 print(content)
