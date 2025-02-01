@@ -1,5 +1,3 @@
-from queue import PriorityQueue
-
 username = input ("имя пользователя: ")
 title = input ("заголовок заметки: ")
 content = input ("описание заметки: ")
